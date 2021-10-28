@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-api-commons/cloud-api-commons.iml" filepath="$PROJECT_DIR$/cloud-api-commons/cloud-api-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-consumer/cloud-consumer" filepath="$PROJECT_DIR$/cloud-consumer/cloud-consumer" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-eureka/cloud-eureka" filepath="$PROJECT_DIR$/cloud-eureka/cloud-eureka" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-gateway/cloud-gateway" filepath="$PROJECT_DIR$/cloud-gateway/cloud-gateway" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-provider/cloud-provider" filepath="$PROJECT_DIR$/cloud-provider/cloud-provider" />
+      <module fileurl="file://$PROJECT_DIR$/cloud2020.iml" filepath="$PROJECT_DIR$/cloud2020.iml" />
+    </modules>
+  </component>
+</project>
