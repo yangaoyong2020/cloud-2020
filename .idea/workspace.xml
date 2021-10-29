@@ -1,109 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b827741-95d4-4330-a982-48e89e30987b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cloud-eureka/cloud-eureka-server7001.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-gateway/cloud-gateway-gateway9527.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider/cloud-provider-payment8001.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="1b827741-95d4-4330-a982-48e89e30987b" name="Default Changelist" comment="new第一次提交">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-config-center-3344/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-config-center-3344/src/main/java/com/atguigu/springcloud/ConfigCenterMain3344.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-config-center-3344/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-config-client-3355/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-config-client-3355/src/main/java/com/atguigu/springcloud/ConfigClientMain3355.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-config-client-3355/src/main/java/com/atguigu/springcloud/controller/ConfigClientController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-config-client-3355/src/main/resources/bootstrap.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-config-client-3366/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-config-client-3366/src/main/java/com/atguigu/springcloud/ConfigClientMain3366.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-config-client-3366/src/main/java/com/atguigu/springcloud/controller/ConfigClientController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-config-client-3366/src/main/resources/bootstrap.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/atguigu/springcloud/OrderHystrixMain80.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/atguigu/springcloud/controller/OrderHystirxController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/atguigu/springcloud/service/PaymentFallbackService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/atguigu/springcloud/service/PaymentHystrixService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/atguigu/springcloud/OrderFeignMain80.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/atguigu/springcloud/config/FeignConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/atguigu/springcloud/controller/OrderFeignController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/atguigu/springcloud/service/PaymentFeignService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-hystrix-dashboard9001/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-hystrix-dashboard9001/src/main/java/com/atguigu/springcloud/HystrixDashboardMain9001.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-hystrix-dashboard9001/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/myrule/MyselfRule.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/Controller/OrderController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/config/ApplicationContextConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/lb/LoadBalancer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/lb/MyLB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer/cloud-consumer" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer/cloud-consumer" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumerconsul-order80/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/java/com/atguigu/springcloud/OrderConsulMain80.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/java/com/atguigu/springcloud/config/ApplicationContextConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/java/com/atguigu/springcloud/controller/OrderConsulController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumerzk-order80/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumerzk-order80/src/main/java/com/atguigu/springcloud/OrderZKMain80.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumerzk-order80/src/main/java/com/atguigu/springcloud/config/ApplicationContextConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumerzk-order80/src/main/java/com/atguigu/springcloud/controller/OrderZKController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumerzk-order80/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7002/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7002/src/main/java/com/atguigu/springcloud/EurekaMain7002.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/atguigu/springcloud/filter/MyLogGateWayFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/atguigu/springcloud/PaymentHystrixMain8001.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/atguigu/springcloud/controller/PaymentController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/atguigu/springcloud/service/PaymentService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/controller/PaymentController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/dao/PaymentDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/service/PaymentService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/service/impl/PaymentServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/atguigu/springcloud/PaymentMain8002.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/atguigu/springcloud/controller/PaymentController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/atguigu/springcloud/dao/PaymentDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/atguigu/springcloud/service/PaymentService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/atguigu/springcloud/service/impl/PaymentServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8004/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8004/src/main/java/com/atguigu/springcloud/PaymentMain8004.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8004/src/main/java/com/atguigu/springcloud/controller/PaymentController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8004/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-providerconsul-payment8006/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-providerconsul-payment8006/src/main/java/com/atguigu/springcloud/PaymentMain8006.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-providerconsul-payment8006/src/main/java/com/atguigu/springcloud/controller/PaymentController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-providerconsul-payment8006/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/src/main/java/com/atguigu/springcloud/StreamMQMain8802.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/src/main/java/com/atguigu/springcloud/controller/ReceiveMessageListenerController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/src/main/java/com/atguigu/springcloud/StreamMQMain8803.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/src/main/java/com/atguigu/springcloud/controller/ReceiveMessageListenerController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/atguigu/springcloud/StreamMQMain8801.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/atguigu/springcloud/controller/SendMessageController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/atguigu/springcloud/service/IMessageProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/atguigu/springcloud/service/impl/MessageProviderImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloudalibaba-provider-payment9001/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloudalibaba-provider-payment9001/src/main/java/com/atguigu/springcloud/alibaba/PaymentMain9001.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloudalibaba-provider-payment9001/src/main/java/com/atguigu/springcloud/alibaba/controller/PaymentController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloudalibaba-provider-payment9001/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloudalibaba-provider-payment9002/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloudalibaba-provider-payment9002/src/main/java/com/atguigu/springcloud/alibaba/PaymentMain9002.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloudalibaba-provider-payment9002/src/main/java/com/atguigu/springcloud/alibaba/controller/PaymentController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloudalibaba-provider-payment9002/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-api-commons/cloud-api-commons.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-api-commons/cloud-api-commons.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -312,78 +224,125 @@
       <option name="presentableId" value="Default" />
       <updated>1635384999306</updated>
       <workItem from="1635385003330" duration="1934000" />
-      <workItem from="1635405215423" duration="257000" />
+      <workItem from="1635405215423" duration="1464000" />
+      <workItem from="1635411165569" duration="642000" />
+      <workItem from="1635487808727" duration="707000" />
     </task>
+    <task id="LOCAL-00001" summary="new第一次提交">
+      <created>1635405564754</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1635405564754</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="new第一次提交" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Notifications" timestamp="1635406653506">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1635406653506" />
     <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1635386122831">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1635386122831" />
+    <state x="218" y="0" key="CommitChangelistDialog2" timestamp="1635411458900">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="218" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1635411458900" />
+    <state x="110" y="54" key="DiffContextDialog" timestamp="1635411442898">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="110" y="54" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1635411442898" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1635388373786">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1635388373786" />
-    <state width="452" height="347" key="Git.Branch.Popup" timestamp="1635405538801">
+    <state width="456" height="351" key="Git.Branch.Popup" timestamp="1635406675458">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="452" height="347" key="Git.Branch.Popup/0.0.1366.728@0.0.1366.728" timestamp="1635405538801" />
-    <state width="1323" height="370" key="GridCell.Tab.0.bottom" timestamp="1635405524690">
+    <state width="456" height="351" key="Git.Branch.Popup/0.0.1366.728@0.0.1366.728" timestamp="1635406675458" />
+    <state width="1323" height="263" key="GridCell.Tab.0.bottom" timestamp="1635406689006">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="370" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1635405524690" />
-    <state width="1323" height="370" key="GridCell.Tab.0.center" timestamp="1635405524690">
+    <state width="1323" height="263" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1635406689006" />
+    <state width="1323" height="263" key="GridCell.Tab.0.center" timestamp="1635406689006">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="370" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1635405524690" />
-    <state width="1323" height="370" key="GridCell.Tab.0.left" timestamp="1635405524690">
+    <state width="1323" height="263" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1635406689006" />
+    <state width="1323" height="263" key="GridCell.Tab.0.left" timestamp="1635406689006">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="370" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1635405524690" />
-    <state width="1323" height="370" key="GridCell.Tab.0.right" timestamp="1635405524690">
+    <state width="1323" height="263" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1635406689006" />
+    <state width="1323" height="263" key="GridCell.Tab.0.right" timestamp="1635406689006">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="370" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1635405524690" />
-    <state width="1323" height="370" key="GridCell.Tab.1.bottom" timestamp="1635390093226">
+    <state width="1323" height="263" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1635406689006" />
+    <state width="1323" height="263" key="GridCell.Tab.1.bottom" timestamp="1635406689006">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="370" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1635390093226" />
-    <state width="1323" height="370" key="GridCell.Tab.1.center" timestamp="1635390093226">
+    <state width="1323" height="263" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1635406689006" />
+    <state width="1323" height="263" key="GridCell.Tab.1.center" timestamp="1635406689006">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="370" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1635390093226" />
-    <state width="1323" height="370" key="GridCell.Tab.1.left" timestamp="1635390093225">
+    <state width="1323" height="263" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1635406689006" />
+    <state width="1323" height="263" key="GridCell.Tab.1.left" timestamp="1635406689006">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="370" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1635390093225" />
-    <state width="1323" height="370" key="GridCell.Tab.1.right" timestamp="1635390093226">
+    <state width="1323" height="263" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1635406689006" />
+    <state width="1323" height="263" key="GridCell.Tab.1.right" timestamp="1635406689006">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="370" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1635390093226" />
-    <state width="1323" height="370" key="GridCell.Tab.2.bottom" timestamp="1635390093226">
+    <state width="1323" height="263" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1635406689006" />
+    <state width="1323" height="263" key="GridCell.Tab.2.bottom" timestamp="1635406689006">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="370" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1635390093226" />
-    <state width="1323" height="370" key="GridCell.Tab.2.center" timestamp="1635390093226">
+    <state width="1323" height="263" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1635406689006" />
+    <state width="1323" height="263" key="GridCell.Tab.2.center" timestamp="1635406689006">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="370" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1635390093226" />
-    <state width="1323" height="370" key="GridCell.Tab.2.left" timestamp="1635390093226">
+    <state width="1323" height="263" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1635406689006" />
+    <state width="1323" height="263" key="GridCell.Tab.2.left" timestamp="1635406689006">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="370" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1635390093226" />
-    <state width="1323" height="370" key="GridCell.Tab.2.right" timestamp="1635390093226">
+    <state width="1323" height="263" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1635406689006" />
+    <state width="1323" height="263" key="GridCell.Tab.2.right" timestamp="1635406689006">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="370" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1635390093226" />
+    <state width="1323" height="263" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1635406689006" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1635405236151">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1635405236151" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1635411415877">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1635411415877" />
+    <state x="363" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1635487811675">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1635487811675" />
     <state x="92" y="92" width="1182" height="544" key="dock-window-1" timestamp="1635386162475">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -392,6 +351,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="dock-window-2/0.0.1366.728@0.0.1366.728" timestamp="1635386162475" />
+    <state x="361" y="154" key="git4idea.merge.GitPullDialog" timestamp="1635488087899">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="361" y="154" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1635488087899" />
     <state x="425" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1635385866173">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
