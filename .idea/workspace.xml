@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b827741-95d4-4330-a982-48e89e30987b" name="Default Changelist" comment="new第一次提交">
+    <list default="true" id="1b827741-95d4-4330-a982-48e89e30987b" name="Default Changelist" comment="杨奥勇2010/10/29 提交 n">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-api-commons/cloud-api-commons.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-api-commons/cloud-api-commons.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,7 +225,7 @@
       <workItem from="1635385003330" duration="1934000" />
       <workItem from="1635405215423" duration="1464000" />
       <workItem from="1635411165569" duration="642000" />
-      <workItem from="1635487808727" duration="707000" />
+      <workItem from="1635487808727" duration="2975000" />
     </task>
     <task id="LOCAL-00001" summary="new第一次提交">
       <created>1635405564754</created>
@@ -235,7 +234,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635405564754</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="杨奥勇2010/10/29 提交 n">
+      <created>1635488722202</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1635488722202</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,9 +262,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new第一次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="new第一次提交" />
+    <MESSAGE value="杨奥勇2010/10/29 提交 n" />
+    <option name="LAST_COMMIT_MESSAGE" value="杨奥勇2010/10/29 提交 n" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="259" y="22" key="#Deployment" timestamp="1635488715370">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="259" y="22" key="#Deployment/0.0.1366.728@0.0.1366.728" timestamp="1635488715370" />
     <state x="275" y="22" key="#Notifications" timestamp="1635406653506">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -267,22 +278,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1635386122831" />
-    <state x="218" y="0" key="CommitChangelistDialog2" timestamp="1635411458900">
+    <state x="218" y="0" key="CommitChangelistDialog2" timestamp="1635489039057">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="218" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1635411458900" />
-    <state x="110" y="54" key="DiffContextDialog" timestamp="1635411442898">
+    <state x="218" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1635489039057" />
+    <state x="110" y="54" width="1092" height="611" key="DiffContextDialog" timestamp="1635490109847">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="110" y="54" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1635411442898" />
+    <state x="110" y="54" width="1092" height="611" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1635490109847" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1635388373786">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1635388373786" />
-    <state width="456" height="351" key="Git.Branch.Popup" timestamp="1635406675458">
+    <state width="458" height="353" key="Git.Branch.Popup" timestamp="1635489991681">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="456" height="351" key="Git.Branch.Popup/0.0.1366.728@0.0.1366.728" timestamp="1635406675458" />
+    <state width="458" height="353" key="Git.Branch.Popup/0.0.1366.728@0.0.1366.728" timestamp="1635489991681" />
     <state width="1323" height="263" key="GridCell.Tab.0.bottom" timestamp="1635406689006">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -335,10 +346,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1635405236151" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1635411415877">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1635489852288">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1635411415877" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1635489852288" />
     <state x="363" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1635487811675">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
